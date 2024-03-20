@@ -128,17 +128,21 @@ print(x_single_prediction)
 ## OUTPUT
 
 ### Training Loss, Validation Loss Vs Iteration Plot
-![output](0.png)
-![output](1.png)
+![0 (1)](https://github.com/praveenmax55/mnist-classification/assets/113497509/e7cd90da-e88d-469c-b4da-d91a030c00b6)
+![1 (1)](https://github.com/praveenmax55/mnist-classification/assets/113497509/9b0c46fa-d9e6-4401-92d1-d8ef08dba06a)
+
 ### Classification Report
 
-![output](2.png)
+![2 (1)](https://github.com/praveenmax55/mnist-classification/assets/113497509/009b43e5-ed9c-4855-a7ec-78cc4964265b)
+
 ### Confusion Matrix
 
-![output](3.png)
+![3 (1)](https://github.com/praveenmax55/mnist-classification/assets/113497509/00fef194-aa91-4d80-b803-5345bbc046d9)
+
 ### New Sample Data Prediction
 
-![output](4.png)
+![4 (1)](https://github.com/praveenmax55/mnist-classification/assets/113497509/ed32bac4-f035-4da0-b00d-c612e92480d2)
+
 ![output](5.png)
 ## RESULT
 Thus a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully
