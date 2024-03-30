@@ -149,9 +149,11 @@ print(x_single_prediction)
 
 ### New Sample Data Prediction
 
-![4 (1)](https://github.com/praveenmax55/mnist-classification/assets/113497509/ed32bac4-f035-4da0-b00d-c612e92480d2)
+![9 output](https://github.com/praveenmax55/mnist-classification/assets/113497509/e96cc3db-60c1-4f10-9c28-f31e02ed864a)
 
-![5](https://github.com/praveenmax55/mnist-classification/assets/113497509/c9af38ff-05c9-451e-9e19-9ac515e7bf77)
+
+![output DL](https://github.com/praveenmax55/mnist-classification/assets/113497509/f72097d7-7eb5-4059-9716-b9af0cc02834)
+
 
 ## RESULT
 Thus a convolutional deep neural network for digit classification and to verify the response for scanned handwritten images is written and executed successfully
